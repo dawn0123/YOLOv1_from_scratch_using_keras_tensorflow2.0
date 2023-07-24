@@ -22,3 +22,5 @@ classes_num = {
     'train': 18,
     'tvmonitor': 19
 }
+
+batch_size = 4
